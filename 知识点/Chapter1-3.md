@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-09-01 17:50:45
- * @LastEditTime: 2020-09-02 17:19:22
+ * @LastEditTime: 2020-09-02 17:22:47
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \PMP\知识点\Chapter1-3.md
@@ -12,6 +12,8 @@
 ## keys
 
 ### 工作绩效 VS 工作信息 VS 工作报告
+
+体检数据 → BMI → 健身建议
 
 - 工作绩效：最原始数据；
 - 工作信息：初步处理的数据；
