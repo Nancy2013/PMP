@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-09-01 17:50:45
- * @LastEditTime: 2020-09-02 10:17:24
+ * @LastEditTime: 2020-09-02 17:19:22
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \PMP\知识点\Chapter1-3.md
@@ -23,3 +23,9 @@
 - 迭代型：从模糊到清晰，每次更新全部模块；
 - 增量型：从部分到整体，逐个模块完成；
 - 敏捷型：又叫适应型，包括迭代和增量型；小步快走，根据优先顺序，每次更新最重要的部分；
+
+### 项目 VS 运营 VS 运维
+
+- 项目：独特性、临时性；
+- 运营：重复性，关注产品的持续生产，或输入零部件到输出产品的过程；
+- 运维：技术性，关注平台 bug;
