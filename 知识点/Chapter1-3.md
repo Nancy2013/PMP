@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-09-01 17:50:45
- * @LastEditTime: 2020-09-02 17:22:47
+ * @LastEditTime: 2020-09-03 17:52:41
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \PMP\知识点\Chapter1-3.md
@@ -31,3 +31,11 @@
 - 项目：独特性、临时性；
 - 运营：重复性，关注产品的持续生产，或输入零部件到输出产品的过程；
 - 运维：技术性，关注平台 bug;
+
+### 组织结构类型
+
+- 职能型：权利 很小/无，晋升明确 上部协调
+- 弱矩阵型：权利 小，下部协调
+- 平衡矩阵型：权利 小到中，多头管理 活多
+- 强矩阵型：权利 中到大 全职经理，出现了项目经理的经理
+- 项目型：权利 大 全职经理， 无安全感
