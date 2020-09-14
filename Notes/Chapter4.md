@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-09-10 10:15:15
- * @LastEditTime: 2020-09-10 10:16:31
+ * @LastEditTime: 2020-09-14 10:54:01
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \PMP\Notes\Chapter4.md
@@ -42,3 +42,5 @@ PMO、项目集、职能经理，不能是项目经理，必须是项目团队�
 
 - 项目经理无能为力
 - 超出了项目经理的权利范围
+
+## 启动大会 VS Kick-off-meeting
