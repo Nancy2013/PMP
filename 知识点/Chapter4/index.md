@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-09-10 10:14:12
- * @LastEditTime: 2020-09-21 11:22:16
+ * @LastEditTime: 2020-09-21 11:36:24
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \PMP\知识点\Chapter4.md
@@ -74,3 +74,12 @@
 ### 实施整体变更控制
 
 ### 结束项目或阶段
+
+- 可交付成功验收
+- 客户满意度收集
+- 移交成果
+- 经验教训登记册
+- 更新组织过程资产
+- 文件归档
+- 庆功宴
+- 释放资源
