@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-09-10 10:14:12
- * @LastEditTime: 2020-09-18 17:44:37
+ * @LastEditTime: 2020-09-21 11:22:16
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \PMP\知识点\Chapter4.md
@@ -68,3 +68,9 @@
 - 经验教训登记册
 - 风险登记册
 - 相关方登记册
+
+### 监控项目工作
+
+### 实施整体变更控制
+
+### 结束项目或阶段
