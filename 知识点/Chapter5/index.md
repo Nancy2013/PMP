@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-09-15 09:17:43
- * @LastEditTime: 2020-09-23 11:36:08
+ * @LastEditTime: 2020-09-24 11:05:24
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \PMP\知识点\Chapter5\index.md
@@ -81,3 +81,10 @@
 控制质量：内部 QC 部门，重点是成果的正确性，质量是否符合标准；
 
 ### 控制范围
+
+监督产品的范围状态，管理范围基准的变更，既不多做，也不少做；变更内容，需要执行整体变更控制过程；
+
+#### 工具与技术
+
+- 偏差分析：现实情况与绩效标准的偏差
+- 趋势分析：项目绩效是在变好还是恶化
