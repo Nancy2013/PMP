@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-08-31 10:01:45
- * @LastEditTime: 2020-09-16 11:18:38
+ * @LastEditTime: 2020-09-25 09:59:39
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \PMP\tips\resume.md
@@ -11,7 +11,7 @@
 
 ## 技巧
 
-- 经历倒叙
+- 经历倒序
 - 经验以项目管理为主
 - 项目描述数据量化
 
