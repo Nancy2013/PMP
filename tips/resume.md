@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-08-31 10:01:45
- * @LastEditTime: 2020-09-25 09:59:39
+ * @LastEditTime: 2020-09-27 11:14:09
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \PMP\tips\resume.md
@@ -23,3 +23,4 @@
 - 经常称赞别人
 - 终身学习
 - 保持幽默感
+- 需要与同项目组成员建立信任关系，打成一片
