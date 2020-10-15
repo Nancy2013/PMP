@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-09-22 09:19:41
- * @LastEditTime: 2020-10-15 10:18:02
+ * @LastEditTime: 2020-10-15 11:27:13
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \PMP\知识点\Chapter6\index.md
@@ -14,6 +14,8 @@
 ## 项目质量管理
 
 ### 规划质量管理
+
+定标准
 
 #### 质量管理水平
 
