@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-09-22 09:19:41
- * @LastEditTime: 2020-10-21 10:36:41
+ * @LastEditTime: 2020-10-23 16:49:40
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \PMP\知识点\Chapter6\index.md
@@ -27,6 +27,14 @@
 - 虚拟团队
 
 ### 建设团队
+
+#### 团队成员关系
+
+- 形成阶段：互相独立
+- 震荡阶段：会有不同观点
+- 规范阶段：调整个人习惯支持团队，协同办公，互相信任
+- 成熟阶段：有组织，相互依靠信任，平稳高效
+- 解散阶段
 
 ### 管理团队
 

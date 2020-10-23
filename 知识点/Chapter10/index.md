@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-09-22 09:19:41
- * @LastEditTime: 2020-10-22 19:09:42
+ * @LastEditTime: 2020-10-23 16:43:08
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \PMP\知识点\Chapter6\index.md
@@ -11,7 +11,7 @@
 
 ## keys
 
-## 项目资源管理
+## 项目沟通管理
 
 ### 规划沟通管理
 
