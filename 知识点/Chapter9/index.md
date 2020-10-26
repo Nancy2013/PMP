@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-09-22 09:19:41
- * @LastEditTime: 2020-10-23 16:49:40
+ * @LastEditTime: 2020-10-26 11:26:03
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \PMP\知识点\Chapter6\index.md
@@ -27,6 +27,19 @@
 - 虚拟团队
 
 ### 建设团队
+
+强调团队关系，协调工作，提高绩效，从好到更好
+
+#### 工具与技术
+
+- 集中办公
+- 虚拟团队
+- 人际关系与团队技能
+- 沟通技术
+- 认可与奖励
+- 培训
+- 个人和团队评估
+- 会议
 
 #### 团队成员关系
 
