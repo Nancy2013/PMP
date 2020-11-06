@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-09-01 17:50:45
- * @LastEditTime: 2020-09-15 14:48:33
+ * @LastEditTime: 2020-11-06 11:14:22
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \PMP\知识点\Chapter1-3.md
@@ -80,6 +80,6 @@
 ### 事业环境因素 VS 组织过程资产
 
 - 事业环境因素:不可控，需遵守
-  ![事业环境因素](./../images/issues.jpg)
+  ![事业环境因素](./../../images/issues.jpg)
 - 组织过程资产:可裁剪，多积累
-  ![组织过程资产](./../images/assets.jpg)
+  ![组织过程资产](./../../images/assets.jpg)
