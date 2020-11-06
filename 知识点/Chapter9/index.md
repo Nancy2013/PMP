@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-09-22 09:19:41
- * @LastEditTime: 2020-10-26 11:26:03
+ * @LastEditTime: 2020-11-06 09:42:06
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \PMP\知识点\Chapter6\index.md
@@ -14,6 +14,16 @@
 ## 项目资源管理
 
 ### 规划资源管理
+
+#### 工具与技术
+
+##### 数据表现
+
+> 责任分配矩阵
+> A：accountability 问责(有且只有一个)
+> R：responsible 负责(可多个,是不是必须的？)
+> C：consult 咨询
+> I：inform 通知
 
 ### 估算活动资源
 
