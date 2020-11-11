@@ -1,7 +1,7 @@
 <!--
  * @Author: your name
  * @Date: 2020-09-22 09:19:41
- * @LastEditTime: 2020-11-03 11:00:20
+ * @LastEditTime: 2020-11-11 09:37:16
  * @LastEditors: Please set LastEditors
  * @Description: In User Settings Edit
  * @FilePath: \PMP\知识点\Chapter6\index.md
@@ -104,6 +104,11 @@
 - 分享
 - 提高(增加普通资源，缩短项目时间)
 - 接受(主动应对：应急储备)
+
+> 应急应对策略
+>
+> 只在风险预警发生时，才采用的应对措施；通过该方法制定的策略又叫应急计划(弹回计划)
+> 权变措施：没有预测到，针对风险的随机应对
 
 ##### 数据分析
 
